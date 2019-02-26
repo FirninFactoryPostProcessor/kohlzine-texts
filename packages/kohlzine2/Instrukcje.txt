@@ -1,0 +1,92 @@
+RAPORT: INSTRUKCJE DRUKOWANIA Z PROGRAMU ADOBE INDESIGN
+
+NAZWA PUBLIKACJI: kohlzine2-1.indd
+
+DATA SPAKOWANIA: 02.01.2019 08:34
+Data utworzenia: 02.01.2019
+Data modyfikacji: 02.01.2019
+
+INFORMACJE KONTAKTOWE
+
+Nazwa firmy: 
+Kontakt: 
+Adres: 
+
+
+
+
+
+Telefon: 
+Faks: 
+E-mail: 
+
+INSTRUKCJE SPECJALNE I INNE UWAGI
+
+
+
+
+
+
+Zewnętrzne wtyczki 0
+Obiekty niekryjące:Na stronieOR, 2, 14, 15, 35
+
+CZCIONKI
+4 Użyte czcionki; 0 Brakujące, 0 Osadzone, 0 Niepełne, 1 Zabezpieczone
+
+Spakowane czcionki
+- Nazwa: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+- Nazwa: NocturneSerif-Regular; Typ: OpenType Type 1, Status: OK
+- Nazwa: TelerysmMono2-Regular; Typ: OpenType Type 1, Status: OK
+Nie spakowane czcionki
+- Nazwa: ZamolxisVI; Typ: TrueType, Status: OK
+
+
+KOLORY I FARBY
+4 Farby podstawowe; 0 Farby dodatkowe
+
+- Nazwa i typ: Podstawowy niebieskozielony; Kąt: 0,000; Linii/cal: 0,000
+- Nazwa i typ: Podstawowy karmazynowy; Kąt: 0,000; Linii/cal: 0,000
+- Nazwa i typ: Podstawowy żółty; Kąt: 0,000; Linii/cal: 0,000
+- Nazwa i typ: Podstawowy czarny; Kąt: 0,000; Linii/cal: 0,000
+
+
+ŁĄCZA I OBRAZY
+(Tylko łącza brakujące i osadzone)
+Łącza i obrazy: 13 Znalezione łącza; 0 Zmodyfikowane, 0 Brakujące, 0 Niedostępne
+Obrazy: 0 Osadzone, 11 używa przestrzeni kolorów RGB
+
+
+USTAWIENIA DRUKOWANIA
+PPD: brak, (Microsoft XPS Document Writer)
+Drukowanie na: Drukarka
+Liczba kopii: 1
+Strony widzące: Nie
+Strony parzyste/nieparzyste: Obie
+Strony: Wszystkie
+Próba: Nie
+Sąsiadująco: Brak
+Skala: 100%, 100%
+Położenie strony: W górnym lewym rogu
+Drukuj warstwy: Warstwy widoczne i drukowalne
+Znaczniki drukarskie: Brak
+Spad: 0 mm, 0 mm, 0 mm, 0 mm
+Kolor: Kompozytowy RGB
+Tryb zalewek: Brak
+Wysyłaj dane obrazu: Optymalizowana redukcja próbkowania
+Zastępowanie obrazu OPI/DCS: Nie
+Rozmiar strony: A5
+Wymiary papieru: 210 mm x 297 mm
+Orientacja: Pionowo
+Negatyw: Nie
+Tryb odbicia: Wył.
+
+
+LISTA PLIKÓW W PAKIECIE
+
+1. kohlzine2-1.indd; typ: publikacja Adobe InDesign; rozmiar: 3320K
+2. kohlzine2-1.idml; typ: dokument InDesign Markup; rozmiar: 152K
+3. kohlzine2-1.pdf; typ: dokument Adobe Acrobat; rozmiar: 2032K
+4. MinionPro-Regular.otf; typ: Plik czcionki; rozmiar: 213K
+5. NocturneSerif-Regular.otf; typ: Plik czcionki; rozmiar: 63K
+6. TelerysmMono2-Regular.otf; typ: Plik czcionki; rozmiar: 24K
+7. Zamolxis-VI.ttf; typ: Plik czcionki; rozmiar: 17K

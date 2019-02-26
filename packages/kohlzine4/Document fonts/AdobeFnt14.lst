@@ -1,0 +1,65 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Misza\Desktop\kohl4\drqft Folder\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+FileLength:110184
+FileModTime:1480256648
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Misza\Desktop\kohl4\drqft Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1361528180
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NocturneSerif-Regular
+FamilyName:Nocturne Serif
+StyleName:Regular
+FullName:Nocturne Serif
+MenuName:Nocturne Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Misza\Desktop\kohl4\drqft Folder\Document fonts\NocturneSerif-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:65372
+FileModTime:1479500142
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
