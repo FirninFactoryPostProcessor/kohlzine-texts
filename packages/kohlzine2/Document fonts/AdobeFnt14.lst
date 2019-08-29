@@ -11,12 +11,12 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Misza\Dropbox\zine Folder\kohlzine 2\Folder kohlzine2-1\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\Misza\Dropbox\zine\packages\kohlzine2\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:218640
-FileModTime:1361524580
+FileModTime:1361528180
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -33,12 +33,12 @@ FullName:Nocturne Serif
 MenuName:Nocturne Serif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Misza\Dropbox\zine Folder\kohlzine 2\Folder kohlzine2-1\Document fonts\NocturneSerif-Regular.otf
+OutlineFileName:C:\Users\Misza\Dropbox\zine\packages\kohlzine2\Document fonts\NocturneSerif-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:65372
-FileModTime:1479500142
+FileModTime:1479503742
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -54,12 +54,12 @@ FullName:Telerysm Mono 2 Regular
 MenuName:Telerysm Mono 2
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Misza\Dropbox\zine Folder\kohlzine 2\Folder kohlzine2-1\Document fonts\TelerysmMono2-Regular.otf
+OutlineFileName:C:\Users\Misza\Dropbox\zine\packages\kohlzine2\Document fonts\TelerysmMono2-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:25544
-FileModTime:1543869184
+FileModTime:1543872784
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -75,10 +75,10 @@ FullName:Zamolxis VI
 MenuName:Zamolxis VI
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Misza\Dropbox\zine Folder\kohlzine 2\Folder kohlzine2-1\Document fonts\Zamolxis-VI.ttf
+OutlineFileName:C:\Users\Misza\Dropbox\zine\packages\kohlzine2\Document fonts\Zamolxis-VI.ttf
 DataFormat:sfntData
 FileLength:17424
-FileModTime:1546270013
+FileModTime:1546273613
 WeightClass:400
 WidthClass:5
 AngleClass:0
