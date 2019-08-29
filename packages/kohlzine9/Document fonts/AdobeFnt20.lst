@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.20
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine9\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110184
+FileModTime:1558699620
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apropal Bold
+NameArray:0,Win,1,Apropal Bold
+NameArray:0,Win,16,Apropal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine9\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1361531780
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NocturneSerif-Italic
+FamilyName:Nocturne Serif
+StyleName:Italic
+FullName:Nocturne Serif Italic
+MenuName:Nocturne Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine9\Document fonts\nocturneserif-italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74848
+FileModTime:1563352895
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nocturne Serif Italic
+NameArray:0,Win,1,Nocturne Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NocturneSerif-Regular
+FamilyName:Nocturne Serif
+StyleName:Regular
+FullName:Nocturne Serif
+MenuName:Nocturne Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine9\Document fonts\NocturneSerif-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65372
+FileModTime:1479503742
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nocturne Serif
+NameArray:0,Win,1,Nocturne Serif
+%EndFont
+
