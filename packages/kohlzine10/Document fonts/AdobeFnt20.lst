@@ -1,0 +1,236 @@
+%!Adobe-FontList 1.20
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110184
+FileModTime:1558699622
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apropal Bold
+NameArray:0,Win,1,Apropal Bold
+NameArray:0,Win,16,Apropal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumPlus-Italic
+FamilyName:Gentium Plus
+StyleName:Italic
+FullName:Gentium Plus Italic
+MenuName:Gentium Plus
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\GentiumPlus-I.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1722080
+FileModTime:1343346608
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Gentium Plus Italic
+NameArray:0,Mac,4,Gentium Plus Italic
+NameArray:0,Win,1,Gentium Plus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumPlus
+FamilyName:Gentium Plus
+StyleName:Regular
+FullName:Gentium Plus
+MenuName:Gentium Plus
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\GentiumPlus-R.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1755052
+FileModTime:1343346610
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gentium Plus
+NameArray:0,Mac,4,Gentium Plus
+NameArray:0,Win,1,Gentium Plus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lohit-Bengali
+FamilyName:Lohit Bengali
+StyleName:Regular
+FullName:Lohit Bengali
+MenuName:Lohit Bengali
+StyleBits:0
+WritingScript:Bengali
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\Lohit-Bengali.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139448
+FileModTime:1566301418
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lohit Bengali
+NameArray:0,Win,1,Lohit Bengali
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lohit-Devanagari
+FamilyName:Lohit Devanagari
+StyleName:Regular
+FullName:Lohit Devanagari
+MenuName:Lohit Devanagari
+StyleBits:0
+WritingScript:Devanagari
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\Lohit-Devanagari.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70380
+FileModTime:1566298002
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lohit Devanagari
+NameArray:0,Win,1,Lohit Devanagari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lohit-Gujarati
+FamilyName:Lohit Gujarati
+StyleName:Regular
+FullName:Lohit Gujarati
+MenuName:Lohit Gujarati
+StyleBits:0
+WritingScript:Gujarati
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\Lohit-Gujarati.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60572
+FileModTime:1566301410
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lohit Gujarati
+NameArray:0,Win,1,Lohit Gujarati
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1361531780
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-BoldItalic
+FamilyName:Noto Serif
+StyleName:Bold Italic
+FullName:Noto Serif Bold Italic
+MenuName:Noto Serif
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\NotoSerif-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:313444
+FileModTime:1566297410
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\NotoSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:330000
+FileModTime:1566297410
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Ole Minowe\Desktop\Misze\Folder k10\Document fonts\NotoSerif-RegularItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:302904
+FileModTime:1566297410
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
