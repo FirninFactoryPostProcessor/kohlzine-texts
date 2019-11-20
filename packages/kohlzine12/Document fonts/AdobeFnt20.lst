@@ -1,0 +1,160 @@
+%!Adobe-FontList 1.20
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110184
+FileModTime:1573684468
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apropal Bold
+NameArray:0,Win,1,Apropal Bold
+NameArray:0,Win,16,Apropal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansArmenian-Regular
+FamilyName:Noto Sans Armenian
+StyleName:Regular
+FullName:Noto Sans Armenian Regular
+MenuName:Noto Sans Armenian
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSansArmenian-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29588
+FileModTime:1505917230
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans Armenian
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSerif-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:348704
+FileModTime:1573684468
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-BoldItalic
+FamilyName:Noto Serif
+StyleName:Bold Italic
+FullName:Noto Serif Bold Italic
+MenuName:Noto Serif
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSerif-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:313444
+FileModTime:1573684468
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:330000
+FileModTime:1573684468
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSerif-RegularItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:302904
+FileModTime:1573684468
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerifSlovborgian-Regular
+FamilyName:Noto Serif Slovborgian
+StyleName:Regular
+FullName:Noto Serif Slovborgian Regular
+MenuName:Noto Serif Slovborgian
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine12\Document fonts\NotoSerifSlovborgian-Regular (1).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:576816
+FileModTime:1573996286
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Serif Slovborgian Regular
+NameArray:0,Win,1,Noto Serif Slovborgian
+%EndFont
+
