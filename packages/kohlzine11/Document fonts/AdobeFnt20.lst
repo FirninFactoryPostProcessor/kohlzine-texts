@@ -11,12 +11,12 @@ FullName:Apropal Bold
 MenuName:Apropal Bold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\Apropal-Bold_0.ttf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\Apropal-Bold_0.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:110184
-FileModTime:1558699620
+FileModTime:1558696020
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -35,14 +35,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1361531780
+FileModTime:1361528180
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -61,14 +61,14 @@ FullName:Nocturne Serif Italic
 MenuName:Nocturne Serif
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\nocturneserif-italic.otf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\nocturneserif-italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:74848
-FileModTime:1563352895
+FileModTime:1563349295
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -86,14 +86,14 @@ FullName:Nocturne Serif
 MenuName:Nocturne Serif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\NocturneSerif-Regular.otf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\NocturneSerif-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:65372
-FileModTime:1479503742
+FileModTime:1479500142
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -111,12 +111,12 @@ FullName:Noto Serif Bold
 MenuName:Noto Serif
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\NotoSerif-Bold.ttf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\NotoSerif-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:348704
-FileModTime:1566297408
+FileModTime:1566293808
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -133,12 +133,12 @@ FullName:Noto Serif
 MenuName:Noto Serif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\Folder k11\Document fonts\NotoSerif-Regular.ttf
+OutlineFileName:C:\Users\Anon\Dropbox\zine\packages\kohlzine11\Document fonts\NotoSerif-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:330000
-FileModTime:1566297408
+FileModTime:1566293808
 WeightClass:400
 WidthClass:5
 AngleClass:0
