@@ -1,0 +1,206 @@
+%!Adobe-FontList 1.22
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110184
+FileModTime:1558696020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apropal Bold
+NameArray:0,Win,1,Apropal Bold
+NameArray:0,Win,16,Apropal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoNaskhArabic
+FamilyName:Noto Naskh Arabic
+StyleName:Regular
+FullName:Noto Naskh Arabic
+MenuName:Noto Naskh Arabic
+StyleBits:0
+FamilyNameNative:Noto Naskh Arabic
+StyleNameNative:Regular
+FullNameNative:Noto Naskh Arabic Regular
+WritingScript:Arabic
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoNaskhArabic-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:255280
+FileModTime:1567422157
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Naskh Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Bold
+FamilyName:Noto Sans
+StyleName:Bold
+FullName:Noto Sans Bold
+MenuName:Noto Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:455164
+FileModTime:1586679009
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-BoldItalic
+FamilyName:Noto Sans
+StyleName:Bold Italic
+FullName:Noto Sans Bold Italic
+MenuName:Noto Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:471004
+FileModTime:1586679009
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Italic
+FamilyName:Noto Sans
+StyleName:Italic
+FullName:Noto Sans Italic
+MenuName:Noto Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:470472
+FileModTime:1586679010
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSans-Regular
+FamilyName:Noto Sans
+StyleName:Regular
+FullName:Noto Sans Regular
+MenuName:Noto Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:455188
+FileModTime:1586679010
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSerif-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:348704
+FileModTime:1586678956
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSerif-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:302904
+FileModTime:1586678956
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\backup\Misza\Misze Archive\zine\packages\kohlzin18\Document fonts\NotoSerif-Regular_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:330000
+FileModTime:1586678956
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
