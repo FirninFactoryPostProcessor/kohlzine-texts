@@ -1,0 +1,79 @@
+%!Adobe-FontList 1.14
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Folder k13\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+FileLength:110184
+FileModTime:1558696022
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Folder k13\Document fonts\NotoSerif-Regular.ttf
+DataFormat:sfntData
+FileLength:330000
+FileModTime:1566293810
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\Folder k13\Document fonts\NotoSerif-Bold.ttf
+DataFormat:sfntData
+FileLength:348704
+FileModTime:1566293810
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\Folder k13\Document fonts\NotoSerif-RegularItalic.ttf
+DataFormat:sfntData
+FileLength:302904
+FileModTime:1566293810
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+

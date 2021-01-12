@@ -1,0 +1,119 @@
+%!Adobe-FontList 1.20
+%Locale:0x415
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apropal-Bold
+FamilyName:Apropal
+StyleName:Bold
+FullName:Apropal Bold
+MenuName:Apropal Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\k14\Dossier k14\Dossier k14\Document fonts\Apropal-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:110184
+FileModTime:1558699622
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apropal Bold
+NameArray:0,Win,1,Apropal Bold
+NameArray:0,Win,16,Apropal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\k14\Dossier k14\Dossier k14\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1329306826
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif
+FamilyName:Noto Serif
+StyleName:Regular
+FullName:Noto Serif
+MenuName:Noto Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\k14\Dossier k14\Dossier k14\Document fonts\NotoSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:330000
+FileModTime:1566297410
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\k14\Dossier k14\Dossier k14\Document fonts\NotoSerif-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:348704
+FileModTime:1566297410
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Italic
+FamilyName:Noto Serif
+StyleName:Italic
+FullName:Noto Serif Italic
+MenuName:Noto Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:H:\k14\Dossier k14\Dossier k14\Document fonts\NotoSerif-RegularItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:302904
+FileModTime:1566297410
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
